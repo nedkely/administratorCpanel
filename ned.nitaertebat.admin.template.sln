@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ned.nitaertebat.admin.template", "ned.nitaertebat.admin.template.csproj", "{33A0C2C8-DE1D-4AEA-B03A-DD6C8D4FD20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A0C2C8-DE1D-4AEA-B03A-DD6C8D4FD20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A0C2C8-DE1D-4AEA-B03A-DD6C8D4FD20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A0C2C8-DE1D-4AEA-B03A-DD6C8D4FD20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A0C2C8-DE1D-4AEA-B03A-DD6C8D4FD20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A162C4BD-927F-4815-B788-99472F0F6AD1}
+	EndGlobalSection
+EndGlobal
